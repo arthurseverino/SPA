@@ -13,7 +13,7 @@ body {
 #homePage {
   background: #fff;
   padding: 20px;
-  border-radius: 8px;
+  border-radius: 8.5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -25,7 +25,7 @@ label {
 input,
 textarea {
   width: 100%;
-  padding: 8px;
+  padding: 8.5px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
